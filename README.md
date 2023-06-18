@@ -1,2 +1,3 @@
-# repo1st-way-to-create
-github.com
+# Repository for exersice .
+
+This is test repo file for QA Technologies @ SoftUni .
